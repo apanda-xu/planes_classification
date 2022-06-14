@@ -1,0 +1,6 @@
+0 drone
+1 fighter-jet
+2 helicopter
+3 missile
+4 passenger-plane
+5 rocket
